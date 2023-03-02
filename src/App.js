@@ -9,6 +9,7 @@ const App = () => {
       <center>
         <h2>ENTER YOUR CITY</h2>
         <h3>hello lakshmi</h3>
+        <h6>hi raju</h6>
         <input type="text" placeholder="enter city........." 
         value={search} style={{"color":"blue","width":"20%","border": "1px solid black", "padding": "10px"}}
         onChange={(e) => setSearch(e.target.value)} />
