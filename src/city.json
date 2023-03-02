@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name": "Hyderabad"
+    },
+    {
+        "id":1,
+        "name": "Warangal"
+    }, {
+        "id":1,
+        "name": "Vizag"
+    }, {
+        "id":1,
+        "name": "Haryana"
+    }, {
+        "id":1,
+        "name": "Vellore"
+    }, {
+        "id":1,
+        "name": "Channai"
+    }, 
+    {
+        "id":1,
+        "name": "Delhi"
+    },
+    {
+        "id":1,
+        "name": "Nizamabad"
+    },
+    {
+        "id":1,
+        "name": "Guntur"
+    },
+    {
+        "id":1,
+        "name": "Vijayawada"
+    },
+    {
+        "id":1,
+        "name": "Rajamaundry"
+    }
+
+
+]

@@ -23,6 +23,10 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+h2{
+  color: rgb(247, 80, 80);
+  
+}
 
 .App-link {
   color: #61dafb;
